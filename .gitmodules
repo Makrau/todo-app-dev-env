@@ -1,0 +1,6 @@
+[submodule "todo-app-api"]
+	path = todo-app-api
+	url = git@github.com:Makrau/todo-app-api.git
+[submodule "todo-app-client"]
+	path = todo-app-client
+	url = git@github.com:Makrau/todo-app-client.git
